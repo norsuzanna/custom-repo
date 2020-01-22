@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/custom-repo/static/css/main.3a6bdba4.chunk.css",
+    "main.js": "/custom-repo/static/js/main.a7426415.chunk.js",
+    "main.js.map": "/custom-repo/static/js/main.a7426415.chunk.js.map",
+    "runtime-main.js": "/custom-repo/static/js/runtime-main.d274db67.js",
+    "runtime-main.js.map": "/custom-repo/static/js/runtime-main.d274db67.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/custom-repo/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.27fd2583.chunk.js": "/custom-repo/static/js/2.27fd2583.chunk.js",
+    "static/js/2.27fd2583.chunk.js.map": "/custom-repo/static/js/2.27fd2583.chunk.js.map",
+    "index.html": "/custom-repo/index.html",
+    "precache-manifest.04ec918e29e08ccb61f8799692fa09cb.js": "/custom-repo/precache-manifest.04ec918e29e08ccb61f8799692fa09cb.js",
+    "service-worker.js": "/custom-repo/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/custom-repo/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.3a6bdba4.chunk.css.map": "/custom-repo/static/css/main.3a6bdba4.chunk.css.map",
+    "static/js/2.27fd2583.chunk.js.LICENSE": "/custom-repo/static/js/2.27fd2583.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d274db67.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.27fd2583.chunk.js",
+    "static/css/main.3a6bdba4.chunk.css",
+    "static/js/main.a7426415.chunk.js"
+  ]
+}
