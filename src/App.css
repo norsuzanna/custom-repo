@@ -1,10 +1,38 @@
+@import "~antd/dist/antd.css";
+
 .App {
-  text-align: center;
+  background-color: aliceblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1% 5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App-content {
+  background-color: white;
+  width: 100%;
+  padding: 3%;
+}
+
+.App-search {
+  width: 100%;
+  margin-bottom: 1%;
+}
+
+.App-extra {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.App-extra-div {
+  padding: 0 40px;
+}
+
+.App-extra-icon {
+  margin-right: 5px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
